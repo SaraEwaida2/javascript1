@@ -1,0 +1,11 @@
+.demo{
+    border: 3px black;
+    box-shadow: blue;
+}
+
+.vip{
+    background-color: aqua;
+    color:blue;
+    box-shadow: 10px 10px 10px #eee;
+
+}
